@@ -1,5 +1,6 @@
 # darkstar-csfrs
-A client server based cross platform facial recognition system.
+A simple client server based cross platform facial recognition system.(Tested on Windows/Linux)
+
 The .zip file contains the server-side files of the project.
 I will be adding the client-side files and updating the readme.md soon.
 
