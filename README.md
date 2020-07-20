@@ -7,8 +7,7 @@ I will be adding the client-side files and updating the readme.md soon.
 For more info please go here : https://csfrs.eu.org/ (client side)
 
 
-Update: 20-7-20 - CSFRS1.0 
----------------------------<br>
+<ins>Update: 20-7-20 - CSFRS1.0 </ins><br>
 Client side is uploaded as public.html.zip <br>
 server side is server.zip <br>
 Run main.py after all required python modules are installed <br>
