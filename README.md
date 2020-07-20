@@ -22,7 +22,7 @@ Default IP is set in the recognize_faces_video.py change as necessary<br>
 
 The 'face-recognition-opencv real WIN10' folder should be in desktop, otherwise you can edit config.py to change.<br>
 
-client side is on csfrs.eu.org, login with :testtest as uname and pw, (you can go back by clicking on the 'CSFRS' text)<br>
+client side is on csfrs.eu.org, login with :testtest as uname and pw,(you need to edit the login.php with your corresponding MySQL database credentials when you implement this on your own webpage)<br> (on the dashboard you can go back by clicking on the 'CSFRS' text)<br>
 
 3-4 images are required to recognize, upload on client side and package zip, then search target(main.py should be running beforehand)<br>
 
