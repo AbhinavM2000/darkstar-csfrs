@@ -15,6 +15,7 @@ Run main.py after all required python modules are installed <br>
 
 username is :abhinavm17<br>
 password is:letmein<br>
+(you can change this in config.py)
 
 
 Default IP is set in the recognize_faces_video.py change as necessary<br>
